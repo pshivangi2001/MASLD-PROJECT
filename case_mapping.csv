@@ -1,0 +1,9 @@
+case_id,patient_id,fold,y_true
+Case-01,4,0,0
+Case-02,3,1,0
+Case-03,16,2,1
+Case-04,11,1,1
+Case-05,25,1,1
+Case-06,45,1,1
+Case-07,31,0,1
+Case-08,41,2,1
