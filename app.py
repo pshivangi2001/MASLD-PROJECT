@@ -75,7 +75,7 @@ def sidebar_setup():
     st.sidebar.markdown('<div class="sidebar-section-header">Connect Results</div>', unsafe_allow_html=True)
     
     # Results path input (relative path only - NEVER show absolute)
-    default_path = "../results"
+    default_path = "./results"
     results_path = st.sidebar.text_input(
         "Results Folder",
         value=default_path,
