@@ -215,19 +215,6 @@ This is expected if your `index.csv` only contains 8 explainability reports. The
 - Make sure you've installed dependencies: `pip install -r requirements.txt`
 - Run the app with `streamlit run app.py` (not `python app.py`)
 
-## Notes for Supervisors
-
-This application is designed to be:
-- **Easy to Run**: Single command (`streamlit run app.py`)
-- **Self-Contained**: All dependencies in `requirements.txt`
-- **Well-Documented**: Clear README and inline code comments
-- **Robust**: Handles missing files gracefully with helpful error messages
-- **Professional**: Modern UI suitable for presentations
-- **Privacy-Safe**: No personal information or absolute paths exposed
-- **Modular**: Clean separation of concerns (data loading, UI components, styling)
-
-The app does not modify any training data or models—it is a read-only results viewer.
-
 ## License
 
 This is a research prototype for dissertation purposes. All code is provided as-is for research use only.
@@ -236,8 +223,11 @@ This is a research prototype for dissertation purposes. All code is provided as-
 
 ## Author
 
+
 **Shivangi Kamleshbhai Parmar**
+
 MSc Big Data Analytics, Sheffield Hallam University
+
 Supervisor: Dr Olamilekan Shobayo
 
 ---
