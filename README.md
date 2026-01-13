@@ -234,7 +234,13 @@ This is a research prototype for dissertation purposes. All code is provided as-
 
 ---
 
+## Author
+
+**Shivangi Kamleshbhai Parmar**
+MSc Big Data Analytics, Sheffield Hallam University
+Supervisor: Dr Olamilekan Shobayo
+
+---
+
 **Remember**: This is a research prototype—NOT for clinical use. Always include appropriate disclaimers when presenting results.
-**Researcher name: Shivangi Kamleshbhai Parmar**
-**Supervisor: Dr Olamilekan Shobayo**
-**Sheffield Hallam University**
+
